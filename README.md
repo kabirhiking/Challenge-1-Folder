@@ -1,3 +1,3 @@
-## Here two Folder and Each Folder One Problem Solution 
-- 1. The Colab Notebook
-- 2. Solution of the Task
+## Here two Folder 
+- 1. The Colab Notebook(Folder) -- Problem -1
+- 2. Solution of the Task(Folder) -- Problem -2
